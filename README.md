@@ -1,6 +1,7 @@
 # trivy-bug-sample
 This repository contains the example files needed to reproduce a bug in the trivy vulnerability scanning tool.
 
+See https://github.com/aquasecurity/trivy/discussions/5565 for more information.
 
 ## Directions to recreate
 ### Failing Sample
