@@ -16,7 +16,7 @@ __metadata:
 
 "@company/some-dependency-package@npm:v4.0.0":
   version: 4.0.0
-  resolution: "@company/some-dependency-package@npm:4.0.0
+  resolution: "@company/some-dependency-package@npm:4.0.0"
   dependencies:
     devcert: ^1.2.2
   dependenciesMeta:
